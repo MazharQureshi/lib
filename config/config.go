@@ -2,6 +2,8 @@ package config
 
 import "fmt"
 
+var Shark = "Testor"
+
 type Config struct {
 	DB *DBConfig
 }
