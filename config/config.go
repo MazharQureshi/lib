@@ -29,5 +29,5 @@ func GetConfig() *Config {
 }
 
 func Hello() {
-	fmt.Println("Hello, World!")
+	fmt.Println("Hello, World Testor22!")
 }
